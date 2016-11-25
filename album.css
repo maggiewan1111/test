@@ -1,0 +1,41 @@
+
+table{
+	border:2px dashed #357ED5;
+	border-radius:5px;
+	background-color: #c2d9f0;
+	color:#0E4CB4;
+	font-family:Courier;
+}
+
+img{
+	width: 200px;
+	height:200px;	
+	float: left;
+	border-radius:5px;
+}
+#btn{
+	border:2px solid #357ED5;
+	border-radius:5px;
+	height:50px;
+	width:120px;
+	padding:3px;
+	text-align:center;
+	font-size: 16px;
+	background-color:#c2d9f0;
+	color:#0e4cb4;
+	box-shadow:5px 5px 10px lightgrey;
+	margin-left:240px;
+	margin-top:20px;
+}
+#btn a:visited{
+	color:#0e4cb4;
+}
+span{
+	color:white;
+	font-weight:bold;
+	font-size:25px;
+	
+}
+a{
+	text-decoration:none;
+}
